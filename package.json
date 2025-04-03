@@ -10,11 +10,9 @@
   },
   "dependencies": {
     "@reduxjs/toolkit": "^2.6.1",
-    "autoprefixer": "^10.4.21",
     "axios": "^1.8.4",
     "next": "15.2.4",
     "openai": "^4.91.1",
-    "postcss": "^8.5.3",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-redux": "^9.2.0",
@@ -25,6 +23,9 @@
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "@types/tailwindcss": "^3.0.11",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.3",
     "tailwindcss": "^4.1.1",
     "typescript": "^5"
   }
